@@ -1,5 +1,3 @@
-#!/usr/bin/env python
-
 
 class Node(list):
     def __init__(self, data=None):
